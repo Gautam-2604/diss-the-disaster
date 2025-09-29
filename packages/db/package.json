@@ -1,12 +1,9 @@
 {
-  "name": "backend",
+  "name": "db",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "build": "npx tsc -b",
-    "start": "node index.js",
-    "dev": "npm run build && npm run start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
